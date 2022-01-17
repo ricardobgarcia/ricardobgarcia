@@ -25,7 +25,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobgarcia&layout=compact)
 
 ## **My repo:**
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ricardobgarcia&repo=DataScieceDegree&show_owner=true)](https://github.com/yourusername/repo-name)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ricardobgarcia&repo=DataScieceDegree&show_owner=true)](https://github.com/ricardobgarcia/DataScienceDegree)
 
 <!--
 **ricardobgarcia/ricardobgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
