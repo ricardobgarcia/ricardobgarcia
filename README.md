@@ -24,8 +24,10 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobgarcia&layout=compact)
 
-## **My repo:**
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ricardobgarcia&repo=DataScieceDegree&show_owner=true)](https://github.com/ricardobgarcia/DataScienceDegree)
+## **My repos:**
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ricardobgarcia&repo=kc_house_project&show_owner=true)](https://github.com/ricardobgarcia/kc_house_project)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ricardobgarcia&repo=nyc_airbnb_project&show_owner=true)](https://github.com/ricardobgarcia/nyc_airbnb_project)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ricardobgarcia&repo=DataScienceDegree&show_owner=true)](https://github.com/ricardobgarcia/DataScienceDegree)
 
 <!--
 **ricardobgarcia/ricardobgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
