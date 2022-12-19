@@ -1,8 +1,8 @@
 ### “The goal is to turn data into information, and information into insight.” - Carly Fiorina
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-basso-garcia)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ricardobgarcia)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ricardo-B-Garcia)
-[![Publons](https://img.shields.io/badge/publons-%23336699.svg?&style=flat&logo=publons&logoColor=white)](https://publons.com/researcher/1623022/ricardo-basso-garcia/metrics/)
 [![GoogleScholar](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=flat&logo=google%20scholar&logoColor=white)](https://scholar.google.com/citations?user=ysItG7MAAAAJ&hl)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:rbgarcia@gmail.com)
 
